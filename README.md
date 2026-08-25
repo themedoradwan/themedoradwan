@@ -1,12 +1,14 @@
-<!-- Animated header wave -->
+د<!-- Animated welcome + typing name -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hi%20There%2C%20I%27m%20Mohamed%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=33&desc=Front-End%20Developer%20%7C%20React%20%26%20Angular&descAlignY=55&descSize=18&descAlign=50" width="100%"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&height=60&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;I%27m+Mohamed+Radwan" alt="Welcome Typing SVG" />
+  </a>
 </p>
 
 <!-- Typing animation intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=38B2AC&center=true&vCenter=true&width=650&lines=Front-End+Developer+%F0%9F%92%BB;React+%7C+Angular+%7C+JavaScript;Freelancer+%26+Problem+Solver+%E2%9A%A1;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=650&lines=Front-End+Developer+%F0%9F%92%BB;React+%7C+Angular+%7C+JavaScript;Freelancer+%26+Problem+Solver+%E2%9A%A1;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -93,11 +95,6 @@
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
-
-<!-- Animated snake contribution graph (needs the GitHub Action set up separately) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/themedoradwan/themedoradwan/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
-</p>
 
 <!-- Animated footer wave -->
 <p align="center">
