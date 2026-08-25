@@ -1,6 +1,6 @@
 <!-- Animated header wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Mohamed%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Front-End%20Developer%20%7C%20React%20%26%20Angular&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hi%20There%2C%20I%27m%20Mohamed%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=33&desc=Front-End%20Developer%20%7C%20React%20%26%20Angular&descAlignY=55&descSize=18&descAlign=50" width="100%"/>
 </p>
 
 <!-- Typing animation intro -->
