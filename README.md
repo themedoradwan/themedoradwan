@@ -36,8 +36,9 @@
 
 ## 🛠️ Tech Stack
 
-**💻 Programming Languages**
-
+<details>
+<summary>💻 Programming Languages</summary>
+<br>
 <p align="left">
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" /></a>
 <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" /></a>
@@ -47,9 +48,11 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
 </p>
+</details>
 
-**🌐 Frontend Development**
-
+<details>
+<summary>🌐 Frontend Development</summary>
+<br>
 <p align="left">
 <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
 <a href="https://angular.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=angular" /></a>
@@ -58,17 +61,21 @@
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
 <a href="https://sass-lang.com/" target="_blank"><img src="https://skillicons.dev/icons?i=sass" /></a>
 </p>
+</details>
 
-**🧰 Backend & Databases**
-
+<details>
+<summary>🧰 Backend & Databases</summary>
+<br>
 <p align="left">
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>
 <a href="https://www.sqlite.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" /></a>
 </p>
+</details>
 
-**🛠️ Tools & Technologies**
-
+<details>
+<summary>🛠️ Tools & Technologies</summary>
+<br>
 <p align="left">
 <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
 <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
@@ -79,6 +86,7 @@
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" /></a>
 <a href="https://www.anaconda.com/" target="_blank"><img src="https://skillicons.dev/icons?i=anaconda" /></a>
 </p>
+</details>
 
 ---
 
