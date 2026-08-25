@@ -1,19 +1,23 @@
-# 👋 Hi there, I'm Mohamed Radwan
+<h1 align="center">👋 Hi there, I'm Mohamed Radwan</h1>
 
-### 💻 Front-End Developer • ⚛️ React Developer • 🎨 UI Enthusiast
+<h3 align="center">💻 Front-End Developer • ⚛️ React Developer • 🎨 UI Enthusiast</h3>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Front-End+Developer;React+%7C+Angular+%7C+JavaScript;Freelancer+%26+Problem+Solver;Always+Learning+New+Technologies" alt="Typing SVG" />
-</a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Front-End+Developer;React+%7C+Angular+%7C+JavaScript;Freelancer+%26+Problem+Solver;Always+Learning+New+Technologies" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
 ## 📬 Connect with Me
 
-<a href="https://linkedin.com/in/mohamed-radwan-2565232ab"><img src="https://img.shields.io/badge/LinkedIn-Mohamed_Radwan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:mr8161115@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://facebook.com/medo.radwan.626999"><img src="https://img.shields.io/badge/Facebook-Mohamed_Radwan-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://instagram.com/medo_radwan5"><img src="https://img.shields.io/badge/Instagram-medo__radwan5-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<p align="center">
+<a href="https://linkedin.com/in/mohamed-radwan-2565232ab" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mr8161115@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+<a href="https://facebook.com/medo.radwan.626999" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
+<a href="https://instagram.com/medo_radwan5" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -34,25 +38,47 @@
 
 **💻 Programming Languages**
 
-[![](https://skillicons.dev/icons?i=cs,cpp,dart,ts,js,html,css)](https://skillicons.dev)
+<p align="left">
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" /></a>
+<a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" /></a>
+<a href="https://dart.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=dart" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
+</p>
 
 **🌐 Frontend Development**
 
-[![](https://skillicons.dev/icons?i=react,angular,nextjs,bootstrap,tailwind,sass)](https://skillicons.dev)
+<p align="left">
+<a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
+<a href="https://angular.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=angular" /></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+<a href="https://sass-lang.com/" target="_blank"><img src="https://skillicons.dev/icons?i=sass" /></a>
+</p>
 
 **🧰 Backend & Databases**
 
-[![](https://skillicons.dev/icons?i=fastapi,mysql,sqlite)](https://skillicons.dev)
+<p align="left">
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+<a href="https://www.sqlite.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" /></a>
+</p>
 
 **🛠️ Tools & Technologies**
 
-[![](https://skillicons.dev/icons?i=git,github,figma,postman,vite,npm,aws,anaconda)](https://skillicons.dev)
-
----
-
-## 🔥 GitHub Streak
-
-[![](https://github-readme-streak-stats.herokuapp.com/?user=themedoradwan&theme=tokyonight&hide_border=true)](https://github.com/themedoradwan)
+<p align="left">
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
+<a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" /></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" /></a>
+<a href="https://vitejs.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=vite" /></a>
+<a href="https://www.npmjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=npm" /></a>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" /></a>
+<a href="https://www.anaconda.com/" target="_blank"><img src="https://skillicons.dev/icons?i=anaconda" /></a>
+</p>
 
 ---
 
