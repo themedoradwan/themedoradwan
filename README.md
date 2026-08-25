@@ -1,18 +1,13 @@
 <!-- Animated header wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:38B2AC&height=200&section=header&text=Hi%20There,%20I'm%20Medo%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Mohamed%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Front-End%20Developer%20%7C%20React%20%26%20Angular&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
 <!-- Typing animation intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+%7C+JavaScript+%7C+Bootstrap;Freelancer+%26+Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=38B2AC&center=true&vCenter=true&width=650&lines=Front-End+Developer+%F0%9F%92%BB;React+%7C+Angular+%7C+JavaScript;Freelancer+%26+Problem+Solver+%E2%9A%A1;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=themedoradwan&label=Profile%20Views&color=2563EB&style=flat" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Followers&query=followers&url=https://api.github.com/users/themedoradwan&style=flat" alt="Followers"/>
 </p>
 
 ---
@@ -96,23 +91,6 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=themedoradwan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themedoradwan&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=themedoradwan&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=themedoradwan&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
 
 ---
 
